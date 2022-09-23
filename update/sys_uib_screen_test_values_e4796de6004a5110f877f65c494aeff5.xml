@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "table" : "x_58872_needit_needit",
+  "sysId" : "eca3a71200825110f877f65c494aef85"
+}</macroponent_config>
+        <screen display_value="Record default">2479a9a6004a5110f877f65c494aefa8</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-23 04:05:18</sys_created_on>
+        <sys_id>e4796de6004a5110f877f65c494aeff5</sys_id>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_e4796de6004a5110f877f65c494aeff5</sys_update_name>
+    </sys_uib_screen_test_values>
+</record_update>
